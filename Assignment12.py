@@ -4,7 +4,7 @@ import rospy
 import math
 import numpy
 from std_msgs.msg import Float64MultiArray, Int64MultiArray
-from ass12.msg import AngleWithStats
+from ass12.msg import AnglesWithStats
 dataArray = []
 
 def arr0(data):
